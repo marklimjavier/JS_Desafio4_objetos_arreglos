@@ -1,0 +1,12 @@
+header {
+    background-color: gray;
+    background-image: url(https://imgclasificados3.emol.com/Proyectos/imagenes//PR_FOTO_4833_1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    color: #fff;
+    text-align: start;
+}
